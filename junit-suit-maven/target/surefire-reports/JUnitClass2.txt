@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: JUnitClass2
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.045 s <<< FAILURE! - in JUnitClass2
+initializationError(JUnitClass2)  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.Exception: class 'JUnitClass2' (possibly indirectly) contains itself as a SuiteClass
+
